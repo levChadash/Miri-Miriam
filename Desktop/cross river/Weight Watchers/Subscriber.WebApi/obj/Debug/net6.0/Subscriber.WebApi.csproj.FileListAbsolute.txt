@@ -25,3 +25,30 @@ C:\Users\user\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\ne
 C:\Users\user\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.pdb
 C:\Users\user\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.genruntimeconfig.cache
 C:\Users\user\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\ref\Subscriber.WebApi.dll
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Subscriber.WebApi.exe
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Subscriber.WebApi.deps.json
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Subscriber.WebApi.runtimeconfig.json
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Subscriber.WebApi.dll
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Subscriber.WebApi.pdb
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.AssemblyInfo.cs
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\scopedcss\bundle\Subscriber.WebApi.styles.css
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.csproj.CopyComplete
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.dll
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\refint\Subscriber.WebApi.dll
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.pdb
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\Subscriber.WebApi.genruntimeconfig.cache
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.WebApi\obj\Debug\net6.0\ref\Subscriber.WebApi.dll

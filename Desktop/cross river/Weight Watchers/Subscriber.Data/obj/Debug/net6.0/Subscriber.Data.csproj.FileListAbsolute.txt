@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\cross river\Miri-Miriam\Desktop\cross river\Weight Watchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.csproj.CoreCompileInputs.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\Subscriber.WebApi.csproj": {}
+    "C:\\Users\\user\\Desktop\\cross river\\Miri-Miriam\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\Subscriber.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\Subscriber.WebApi.csproj": {
+    "C:\\Users\\user\\Desktop\\cross river\\Miri-Miriam\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\Subscriber.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\Subscriber.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\cross river\\Miri-Miriam\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\Subscriber.WebApi.csproj",
         "projectName": "Subscriber.WebApi",
-        "projectPath": "C:\\Users\\user\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\Subscriber.WebApi.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\cross river\\Miri-Miriam\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\Subscriber.WebApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\cross river\\Miri-Miriam\\Desktop\\cross river\\Weight Watchers\\Subscriber.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
